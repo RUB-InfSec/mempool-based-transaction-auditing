@@ -43,8 +43,9 @@ Each CSV file is structured with the following columns:
 | nbg3            | Nuremberg (DE) - Node 3 | eu-central   |
 | nbg4            | Nuremberg (DE) - Node 4 | eu-central   |
 
-
 ---
+
+
 
 ## License
 
@@ -58,6 +59,22 @@ This work is licensed under a
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+
+
+## Citation
+```
+@misc{albrecht2026effectivenessmempoolbasedtransactionauditing,
+      title={On the Effectiveness of Mempool-based Transaction Auditing}, 
+      author={Jannik Albrecht and Ghassan Karame},
+      year={2026},
+      eprint={2601.14996},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2601.14996}, 
+}
+```
+
 
 
 ## Contact
